@@ -1,0 +1,11 @@
+{
+  "combined": [
+    {
+      "version": "1.2.2",
+      "inferno": 89880,
+      "infernogz": 16976,
+      "infernoMin": 24282,
+      "infernoMinGz": 9153
+    }
+  ]
+}

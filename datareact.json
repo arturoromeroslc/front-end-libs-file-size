@@ -1,0 +1,11 @@
+{
+  "combined": [
+    {
+      "version": "15.4.2",
+      "react": 127694,
+      "reactgz": 30461,
+      "reactMin": 21203,
+      "reactMinGz": 7286
+    }
+  ]
+}

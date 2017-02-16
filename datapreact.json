@@ -1,0 +1,11 @@
+{
+  "combined": [
+    {
+      "version": "7.2.0",
+      "preact": 23488,
+      "preactgz": 5557,
+      "preactMin": 9323,
+      "preactMinGz": 3933
+    }
+  ]
+}

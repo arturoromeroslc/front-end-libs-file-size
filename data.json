@@ -1,0 +1,19 @@
+{
+  "combined": [
+  	{"quarter": "inferno", "earnings": 89880},
+  	{"quarter": "infernogz", "earnings": 16976},
+  	{"quarter": "infernoMin", "earnings": 24282},
+  	{"quarter": "infernoMinGz", "earnings": 9153},
+
+  	{"quarter": "preact", "earnings": 23488},
+  	{"quarter": "preactMinGz", "earnings": 5557},
+  	{"quarter": "preactMinGz", "earnings": 9323},
+  	{"quarter": "preactMinGz", "earnings": 3933},
+
+  	{"quarter": "reactMinGz", "earnings": 127694},
+  	{"quarter": "reactMinGz", "earnings": 30461},
+  	{"quarter": "reactMinGz", "earnings": 21203},
+  	{"quarter": "reactMinGz", "earnings": 7286}
+  
+  ]
+}
