@@ -1,0 +1,11 @@
+{
+  "combined": [
+    {
+      "version": "7.0.0",
+      "cyclejs-core": 0,
+      "cyclejs-coregz": 0,
+      "cyclejs-coreMin": 0,
+      "cyclejs-coreMinGz": 0
+    }
+  ]
+}
