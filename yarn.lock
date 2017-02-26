@@ -2159,6 +2159,10 @@ d3-voronoi@^1.0.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/d3-voronoi/-/d3-voronoi-1.1.1.tgz#998544dca98ef0e89a6c40c0bac3510d1bc1b8b9"
 
+d3@^3.5.3:
+  version "3.5.17"
+  resolved "https://registry.yarnpkg.com/d3/-/d3-3.5.17.tgz#bc46748004378b21a360c9fc7cf5231790762fb8"
+
 damerau-levenshtein@^1.0.0:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/damerau-levenshtein/-/damerau-levenshtein-1.0.3.tgz#ae4f4ce0b62acae10ff63a01bb08f652f5213af2"
@@ -5966,6 +5970,12 @@ react:
     fbjs "^0.8.4"
     loose-envify "^1.1.0"
     object-assign "^4.1.0"
+
+react-d3-components@^0.6.6:
+  version "0.6.6"
+  resolved "https://registry.yarnpkg.com/react-d3-components/-/react-d3-components-0.6.6.tgz#ac5fea6ba66bb6946774129914b44b11a5c1daad"
+  dependencies:
+    d3 "^3.5.3"
 
 react-dev-utils@^0.5.0:
   version "0.5.0"
