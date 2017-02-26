@@ -2,6 +2,4 @@
 
 # Development
 ## To start application
-`yarn install`
-`cd src/parser`
-`node getData.js`
+`yarn && node getData.js && npm start`
