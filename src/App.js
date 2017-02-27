@@ -1,11 +1,5 @@
 import React, { Component } from "react";
-import {
-  VictoryGroup,
-  VictoryChart,
-  VictoryAxis,
-  VictoryTheme,
-  VictoryBar
-} from "victory";
+import { VictoryGroup, VictoryChart, VictoryAxis, VictoryTheme, VictoryBar } from "victory";
 import { BarChart } from "react-d3-components";
 import data from "./../data.json";
 
