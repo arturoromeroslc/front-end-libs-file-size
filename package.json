@@ -34,6 +34,7 @@
     "log-update": "^1.0.2",
     "normalize.scss": "^0.1.0",
     "ora": "^0.3.0",
+    "prettier": "^0.19.0",
     "pretty-bytes": "^3.0.1",
     "react": "^15.4.2",
     "react-d3-components": "^0.6.6",
