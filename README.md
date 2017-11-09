@@ -4,3 +4,5 @@ This app will use phantomJS to look up the a framework's lib size even in gzip a
 # Development
 ## To start application
 `yarn && node getData.js && npm start`
+
+Todo
